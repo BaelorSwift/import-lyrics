@@ -3,7 +3,7 @@ import-lyrics
 
 Simple tool to import a batch of lyrics into the [baelor-api](https://github.com/baelorswift/api).
 
-#### Getting Started
+### Getting Started
 
 - Create a file called `config.json` in the root of the repo in the following format
 ``` json
