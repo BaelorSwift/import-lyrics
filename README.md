@@ -13,7 +13,7 @@ Simple tool to import a batch of lyrics into the [baelor-api](https://github.com
   "song_id": "<the id of the song you want to add lyrics to>"
 }
 ```
-- Update the `lyrics` const inside `main.go` with the lyrics list (remember to escape the `"` chars).
+- Update the `lyrics.txt` with the lyrics of the song.
 - Run `go run main.go`
 
 ![;)](https://chandeww.files.wordpress.com/2015/02/whatgif.gif)
